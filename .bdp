@@ -3,7 +3,7 @@ global:
   unit: techops
   product: bdp
   subproduct: autospotting
-  owner: lwmccormick@spscommerce.com
+  owner: cloudautoeng@spscommerce.com
   environments:
     - name: dev
       region: us-east-1
